@@ -39,7 +39,7 @@ setup(
     python_requires=">=3.7, <4",
     include_package_data=True,
     install_requires=[
-        "requests == 2.20.1",
+        "requests == 2.32.2",
         "SQLAlchemy == 1.4.20",
         "pandas == 1.1.4",
         "arrow == 1.2.1",
