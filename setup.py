@@ -48,7 +48,7 @@ setup(
         "marshmallow-sqlalchemy == 0.23.1",
         "marshmallow == 3.2.2",
         "plotly==4.12.0",
-        "dash==1.17.0",
+        "dash==2.15.0",
         "simplejson==3.16.0",
         "jqdatapy==0.1.6",
         "dash-bootstrap-components==0.11.0",
