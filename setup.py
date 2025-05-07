@@ -53,7 +53,7 @@ setup(
         "jqdatapy==0.1.6",
         "dash-bootstrap-components==0.11.0",
         "dash_daq==0.5.0",
-        "scikit-learn==1.0.1",
+        "scikit-learn==1.5.1",
     ],
     project_urls={  # Optional
         "Bug Reports": "https://github.com/zvtvz/zvt/issues",
