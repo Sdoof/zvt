@@ -46,7 +46,7 @@ setup(
         "xlrd == 1.2.0",
         "demjson3 == 3.0.5",
         "marshmallow-sqlalchemy == 0.23.1",
-        "marshmallow == 3.2.2",
+        "marshmallow == 3.26.2",
         "plotly==4.12.0",
         "dash==1.17.0",
         "simplejson==3.16.0",
